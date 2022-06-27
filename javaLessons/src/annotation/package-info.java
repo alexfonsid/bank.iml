@@ -1,2 +1,0 @@
-@MyAnn
-package annotation;
