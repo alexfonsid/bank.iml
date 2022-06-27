@@ -1,3 +1,16 @@
+INSERT INTO city(name)
+	VALUES
+		('Brest'),
+		('Vitebsk'),
+		('Gomel'),
+		('Grodno'),
+		('Fanipol'),
+		('Mogilev'),
+		('Minsk'),
+		('Bobruisk'),
+		('Leningrad'),
+		('LA');
+
 INSERT INTO city(id, name)
 	VALUES
 		(1, 'Brest'),
