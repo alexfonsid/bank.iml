@@ -9,5 +9,6 @@ public class RepositoryUsage {
         CityRepository repository = new CityRepository();
         City moscow = new City("Moscow");
         repository.create(moscow);
+
     }
 }
